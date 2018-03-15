@@ -1,0 +1,57 @@
+Filmora8.x主要功能		
+		
+		
+输入	本地导入	"MP4/FLV/AVI/VOB/3GP/ASF/MOV/F4V/M4V/MPG/MPEG/DPG/TS/TRP/M2TS/MTS/DAT/WMV/MKV/DVR-MS/DV/TOD/EVO/OGV/VRO/ACC/AC3/AIF
+
+"
+		AAC/AC3/AIF/AIFF/AU/FLAC/M4A/MKA/MP2/MP3/OGG/WAV/WMA/CAF/CUE
+		BMP/JPG/PNG/GIF/TIF/ICO/DIB/JPEG/JPE/JFIF/TIFF/EMF
+	手机/设备导入	
+	Facebook/Instagram/Flickr帐号下载	
+	录制导入（麦克风/摄像头/屏幕录制）	
+	安装自带资源/特效/转场/动画/蒙太奇	
+	资源商城下载安装	
+		
+时间线编辑	轨道结构	"1、第一条是主轨道（无缝模式），不能时行片段大小/位置等变换（这种轨道编辑很差，现片段被吐槽最多的）
+2、多条视频轨/特效轨/字幕轨/音频轨
+"
+	轨道操作	增加/删除/隐藏轨道
+	时间片段操作	Move/Copy/Paste/Cut/Trim
+		定帧
+Clip属性调节	视频属性	"Rotate/Contrast/Saturation/Brightness
+Tint/3DLUT/Enhance
+变速/倒放"
+	音频属性	"Volume/FadeIn/FadeOut/Pitch/Equalizer(模板)
+Denoise"
+	图片属性	"和视频属性一样
+入场转动画
+"
+	特效属性	模板
+	蒙太奇	多个画面组合成一个片段
+	字幕编辑面板	
+		
+二级窗口	高级调色	白平衡
+		3DLUT
+		Color(Exposure/Brightness/Contrast/Vibrance/Saturation)
+		Light(Highlights/Shadows/Whites/Blacks)
+		HSL
+		Vignette
+	PowerTool(小功能集合)	Tilt-Shift(框外模糊)
+		Mosaic
+		FaceOff(动态跟踪,用预有图片替换,比较差不准确)
+		
+		
+	PIP Edit(小功能集合)	Mark
+		ChromaKey(Green Screen)
+		片段的边框属性Shadow/Border
+		Composition(与下轨道混合模式)
+		
+	Crop	裁剪画面
+		
+	Audio Mixer	轨道混音
+		
+		
+	输出	WMV/MP4/AVI/MOV/F4V/MKV/TS/3GP/MPEG-2/WEBM/GIF/MP3
+		DVD
+		
+	Effects Store	资源商城
